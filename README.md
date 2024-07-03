@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Righteous. A web developer who shall change the world 1 c0de at a time.
-- 👀 I’m interested in devloping inovative websites and programs.
+- 👋 Hi, I’m Righteous. An inspiring cybersecurity analyst who shall change the world 1 c0de at a time.
+- I enjoy breaking a system up into smaller components so i can learn the little intricacies that makes system what it is,I’m also interested in devloping inovative websites and programs.
 - 🌱 I’m currently studying a Bachelor of science in Information Technology. 
 - 📫 You can contact me through righteousonyedi@gmail.com  or at 0680022727.
-- As an ambitious Information Technology student, I bring a strong foundation in programming languages such as Python, C#, HTML, CSS, JavaScript, and Java. My expertise lies particularly in C# and web technologies (HTML and CSS). I have successfully applied these skills in various projects and coursework.
+- As an ambitious Information Technology student, I bring a strong foundation in programming languages such as Python, C#, HTML, CSS,  and Java. My expertise lies particularly in C# and web technologies (HTML and CSS). I have successfully applied these skills in various projects and coursework.
 
 In addition to my technical abilities, I actively participate in industry events. I attended the annual hackathon hosted by Geekulcha on September 29, 2023, where I collaborated with fellow enthusiasts to solve real-world challenges. Recently, I also participated in the Security Summit hosted by IT WEB and Geekulcha on June 4, 2024, gaining insights into cybersecurity trends and best practices.
 
