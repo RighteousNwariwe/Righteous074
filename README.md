@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Righteous. An inspiring cybersecurity analyst who shall change the world 1 c0de at a time.
-- I enjoy breaking a system up into smaller components so i can learn the little intricacies that makes system what it is,I’m also interested in devloping inovative websites and programs.
-- 🌱 I’m currently studying a Bachelor of science in Information Technology. 
+- 👋 Hi, I’m Righteous. An inspiring cybersecurity enthusiast who shall change the world 1 c0de at a time.
+- I enjoy breaking a system up into smaller components so I can learn the little intricacies that make a system what it is. I’m also interested in developing innovative websites and programs.
+- 🌱 I’m currently studying a Bachelor of Science in Information Technology. 
 - 📫 You can contact me through righteousonyedi@gmail.com  or at 0680022727.
 - As an ambitious Information Technology student, I bring a strong foundation in programming languages such as Python, C#, HTML, CSS,  and Java. My expertise lies particularly in C# and web technologies (HTML and CSS). I have successfully applied these skills in various projects and coursework.
 
